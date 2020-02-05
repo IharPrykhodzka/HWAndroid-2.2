@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HWAndroid_2.2</string>
+    <string name="txt_textTop">Просмотр фото</string>
+    <string name="txt_textBot"> </string>
+    <string name="txt_textBtnNext">Вперед</string>
+    <string name="txt_textBtnBack">Назад</string>
+</resources>

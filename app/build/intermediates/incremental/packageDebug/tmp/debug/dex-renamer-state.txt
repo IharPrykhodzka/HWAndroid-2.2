@@ -1,0 +1,4 @@
+#Wed Feb 05 19:47:32 MSK 2020
+base.0=D\:\\Netology\\Android Home Worcks\\HWAndroid_22\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
